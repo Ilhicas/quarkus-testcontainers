@@ -4,4 +4,4 @@ This project uses Quarkus and Testcontainers for testing with Docker Containers 
 
 This is a companion repository to a blog post with description on usage at:
 
-TODO <insertlink>
+https://ilhicas.com/2020/02/14/Quarkus-Testcontainers.html
